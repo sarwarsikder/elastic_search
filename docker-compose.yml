@@ -1,0 +1,37 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres
+    restart: always
+    container_name: dbContainer
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 1
+      POSTGRES_DB: blogdb
+    ports:
+      - '5433:5432'
+    volumes:
+      - database:/var/lib/postgresql
+
+  python:
+    restart: always
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    entrypoint: /entrypoint.sh
+    container_name: blogBackend
+    command: python manage.py runserver 0.0.0.0:8888
+    volumes:
+      - .:/app
+    ports:
+      - "8001:8888"
+    links:
+      - postgres
+    depends_on:
+      - postgres
+    environment:
+      - PYTHONUNBUFFERED=0
+
+volumes:
+  database:

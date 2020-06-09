@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a4ee26d-f09e-458a-b49d-0fd1964c6621" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blogdb@172.18.0.2" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blogdb@172.18.0.2" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blogdb@172.18.0.2" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blogdb: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blogdb@172.18.0.2" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blogdb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blogdb@172.18.0.2" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blogdb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blogdb@172.18.0.2" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blogdb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blogdb@172.18.0.2" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blogdb: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="auth_user: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZebdVlCun8mjEbFmt3P0YI0hzK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="docker-deploy" factoryName="docker-image" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="command" value="" />
+          <option name="containerName" value="10522e23d6ba" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="blogBackend" />
+          <option name="commandLineOptions" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a4ee26d-f09e-458a-b49d-0fd1964c6621" name="Default Changelist" comment="" />
+      <created>1585202594672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585202594672</updated>
+      <workItem from="1585209775831" duration="1191000" />
+      <workItem from="1585501514924" duration="6836000" />
+      <workItem from="1585549229591" duration="8937000" />
+      <workItem from="1585670218784" duration="2891000" />
+      <workItem from="1585673138675" duration="2975000" />
+      <workItem from="1585732260781" duration="37000" />
+      <workItem from="1586430871565" duration="1000" />
+      <workItem from="1586585352142" duration="38000" />
+      <workItem from="1588314242654" duration="10448000" />
+      <workItem from="1588438962293" duration="11000" />
+      <workItem from="1590167675292" duration="1676000" />
+      <workItem from="1590176280267" duration="1847000" />
+      <workItem from="1591601502205" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2316" y="230" width="800" height="677" key="#Docker" timestamp="1585672530050">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2316" y="230" width="800" height="677" key="#Docker/0.27.1440.873/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585672530050" />
+    <state x="2154" y="392" width="618" height="329" key="#Docker2" timestamp="1585673327407">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2154" y="392" width="618" height="329" key="#Docker2/0.27.1440.873/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585673327407" />
+    <state x="2074" y="114" width="642" height="885" key="#Dockerfile" timestamp="1585673255590">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2074" y="114" width="642" height="885" key="#Dockerfile/0.27.1440.873/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585673255590" />
+    <state x="1995" y="218" width="800" height="677" key="#Notifications" timestamp="1590176318879">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="1995" y="218" width="800" height="677" key="#Notifications/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1590176318879" />
+    <state x="310" y="101" width="800" height="677" key="#Updates" timestamp="1585202764665">
+      <screen x="0" y="27" width="1440" height="824" />
+    </state>
+    <state x="310" y="101" width="800" height="677" key="#Updates/0.27.1440.824/1440.18.1920.1080@0.27.1440.824" timestamp="1585202764665" />
+    <state x="2060" y="199" width="984" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590176783752">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="178" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.824/1440.18.1920.1080@0.27.1440.824" timestamp="1585202771695" />
+    <state x="2060" y="199" width="984" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1590176783752" />
+    <state x="2275" y="243" width="984" height="835" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.873/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585674926626" />
+    <state x="2077" y="362" width="635" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585498398756">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2077" y="362" width="635" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585498398756" />
+    <state x="2178" y="341" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1590178037938">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2178" y="341" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1590178037938" />
+    <state x="2140" y="388" width="510" height="489" key="#com.intellij.tools.ToolEditorDialog" timestamp="1590178038591">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2140" y="388" width="510" height="489" key="#com.intellij.tools.ToolEditorDialog/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1590178038591" />
+    <state x="2173" y="315" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590177747200">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2173" y="315" width="424" height="484" key="FileChooserDialogImpl/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1590177747200" />
+    <state x="2173" y="315" width="424" height="484" key="FileChooserDialogImpl/0.27.1440.873/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585732297602" />
+    <state x="1889" y="192" key="SettingsEditor" timestamp="1590178039723">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="1889" y="192" key="SettingsEditor/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1590178039723" />
+    <state x="1889" y="192" key="SettingsEditor/0.27.1440.873/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585673367802" />
+    <state x="376" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1591601502263">
+      <screen x="0" y="27" width="1440" height="824" />
+    </state>
+    <state x="376" y="266" key="com.intellij.ide.util.TipDialog/0.27.1440.824/1440.18.1920.1080@0.27.1440.824" timestamp="1585281219243" />
+    <state x="376" y="266" key="com.intellij.ide.util.TipDialog/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1591601502263" />
+    <state x="1941" y="331" key="com.intellij.ide.util.TipDialog/0.27.1440.873/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585732266785" />
+    <state x="2048" y="167" width="704" height="780" key="find.popup" timestamp="1585323295352">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2048" y="167" width="704" height="780" key="find.popup/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585323295352" />
+    <state x="2063" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1590175850004">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2063" y="255" width="672" height="678" key="search.everywhere.popup/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1590175850004" />
+    <state x="2125" y="471" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585673941561">
+      <screen x="1440" y="18" width="1920" height="1080" />
+    </state>
+    <state x="2125" y="471" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1440.824/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585304920089" />
+    <state x="2125" y="471" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1440.873/1440.18.1920.1080@1440.18.1920.1080" timestamp="1585673941561" />
+  </component>
+</project>
